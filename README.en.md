@@ -8,6 +8,7 @@ Optional workflows for [GhostWriter](https://github.com/ploeffler/GhostWriter).
 | [GhostWriter](skills/ghostwriter/SKILL.md) | Start and work with GhostWriter books and libraries |
 | [Story memory](skills/ghostwriter-buchgedaechtnis/SKILL.md) | Compare facts and continuity in a book |
 | [Editorial review](skills/ghostwriter-lektorat/SKILL.md) | Review and edit book text |
+| [YouTube upload](skills/youtube-upload/SKILL.md) | Upload videos such as book teasers for free via the YouTube Data API |
 
 The book teaser is the pilot for [GhostWriter #532](https://github.com/ploeffler/GhostWriter/issues/532). It works with existing clips and an available video editor. Load its SKILL.md explicitly as an agent skill or workflow instruction; it is not installed into books automatically.
 
