@@ -5,7 +5,7 @@ Optional workflows for [GhostWriter](https://github.com/ploeffler/GhostWriter).
 | Skill | Task |
 | --- | --- |
 | [Book teaser](skills/buchteaser/SKILL.md) | Plan and edit a teaser from existing clips and archive the production in the book repository |
-| [GhostWriter](skills/ghostwriter/SKILL.md) | Start and work with GhostWriter books and libraries |
+| [GhostWriter](skills/ghostwriter/SKILL.md) | Re-entry: points to `START.md` in the repository (no flow of its own) |
 | [Story memory](skills/ghostwriter-buchgedaechtnis/SKILL.md) | Compare facts and continuity in a book |
 | [Editorial review](skills/ghostwriter-lektorat/SKILL.md) | Review and edit book text |
 | [Proofreading hand-off](skills/ghostwriter-gegenlesen/SKILL.md) | Check out sections for proofreading and check the returns back in |
