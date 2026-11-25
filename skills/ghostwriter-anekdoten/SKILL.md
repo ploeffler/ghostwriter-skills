@@ -1,6 +1,6 @@
 ---
 name: ghostwriter-anekdoten
-description: Eigene Erlebnisse und Anekdoten für ein GhostWriter-Buch festhalten, passende Anekdoten vorschlagen und anonymisiert oder abgewandelt in einen Abschnitt einbauen (mit Wahrheitsgehalt und Einverständnis). Startet bei Befehl Anekdote erfassen, Anekdoten, Capture anecdote, Kürzel AN und bei einem [PLATZHALTER-ANEKDOTE: …] im Abschnitt. Nicht für Fakten-Recherche, Material-Uploads oder frei erfundene Szenen.
+description: Eigene Erlebnisse und Anekdoten für ein GhostWriter-Buch festhalten, passende Anekdoten vorschlagen und anonymisiert oder abgewandelt in einen Abschnitt einbauen (mit Wahrheitsgehalt und Einverständnis). Startet bei Befehl Anekdote erfassen, Anekdoten, Capture anecdote, Kürzel AN und bei einem Platzhalter [PLATZHALTER-ANEKDOTE] im Abschnitt. Nicht für Fakten-Recherche, Material-Uploads oder frei erfundene Szenen.
 ---
 
 # GhostWriter-Anekdoten
