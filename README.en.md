@@ -10,6 +10,7 @@ Optional workflows for [GhostWriter](https://github.com/ploeffler/GhostWriter).
 | [Editorial review](skills/ghostwriter-lektorat/SKILL.md) | Review and edit book text |
 | [Proofreading hand-off](skills/ghostwriter-gegenlesen/SKILL.md) | Check out sections for proofreading and check the returns back in |
 | [Material](skills/ghostwriter-material/SKILL.md) | Add photos, documents and returns to the book, prepare and mark them |
+| [Anecdotes](skills/ghostwriter-anekdoten/SKILL.md) | Capture personal experiences and build them into sections anonymised |
 
 The book teaser is the pilot for [GhostWriter #532](https://github.com/ploeffler/GhostWriter/issues/532). It works with existing clips and an available video editor. Load its SKILL.md explicitly as an agent skill or workflow instruction; it is not installed into books automatically.
 
