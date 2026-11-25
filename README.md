@@ -5,7 +5,7 @@ Optionale Arbeitsabläufe für [GhostWriter](https://github.com/ploeffler/GhostW
 | Skill | Aufgabe |
 | --- | --- |
 | [Buchteaser](skills/buchteaser/SKILL.md) | Einen Teaser planen, aus Einzelclips schneiden und im Buchrepo archivieren |
-| [GhostWriter](skills/ghostwriter/SKILL.md) | Einstieg und Arbeit mit GhostWriter-Büchern und Bibliotheken |
+| [GhostWriter](skills/ghostwriter/SKILL.md) | Wiedereinstieg: verweist auf `START.md` im Repository (kein eigener Ablauf) |
 | [Buchgedächtnis](skills/ghostwriter-buchgedaechtnis/SKILL.md) | Fakten und Kontinuität im Buch abgleichen |
 | [Lektorat](skills/ghostwriter-lektorat/SKILL.md) | Buchtexte prüfen und redaktionell überarbeiten |
 | [Gegenlesen](skills/ghostwriter-gegenlesen/SKILL.md) | Bereiche zum Gegenlesen auschecken und die Rückgabe einchecken |
