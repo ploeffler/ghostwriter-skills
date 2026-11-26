@@ -12,6 +12,7 @@ Optionale Arbeitsabläufe für [GhostWriter](https://github.com/ploeffler/GhostW
 | [Material](skills/ghostwriter-material/SKILL.md) | Fotos, Dokumente und Rückgaben zum Buch einbringen, aufbereiten und markieren |
 | [Anekdoten](skills/ghostwriter-anekdoten/SKILL.md) | Eigene Erlebnisse festhalten und anonymisiert in Abschnitte einbauen |
 | [Figurenbild](skills/ghostwriter-figurenbild/SKILL.md) | Figurenbilder gestalten: Bildstil, Prompt aus dem Profil, Varianten mit Prompt ablegen |
+| [Kurz und klar](skills/ghostwriter-kurz-und-klar/SKILL.md) | Antwortstil im Chat: Ergebnis zuerst, wenige Punkte, eine Frage als Auswahl (Einstellung, geplant für GhostWriter 1.6) |
 
 Der Buchteaser ist der Pilot zu [GhostWriter #532](https://github.com/ploeffler/GhostWriter/issues/532). Er funktioniert mit vorhandenen Clips und einem verfügbaren Videoeditor. Für die Nutzung die `SKILL.md` im Agenten laden oder als Arbeitsanweisung referenzieren. Der Buchteaser bleibt optional und wird nicht automatisch in Buchrepositorys installiert.
 
