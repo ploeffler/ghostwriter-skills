@@ -11,10 +11,11 @@ Optional workflows for [GhostWriter](https://github.com/ploeffler/GhostWriter).
 | [Proofreading hand-off](skills/ghostwriter-gegenlesen/SKILL.md) | Check out sections for proofreading and check the returns back in |
 | [Material](skills/ghostwriter-material/SKILL.md) | Add photos, documents and returns to the book, prepare and mark them |
 | [Anecdotes](skills/ghostwriter-anekdoten/SKILL.md) | Capture personal experiences and build them into sections anonymised |
+| [Character image](skills/ghostwriter-figurenbild/SKILL.md) | Design character images: image style, prompt from the profile, variants stored with their prompt |
 
 The book teaser is the pilot for [GhostWriter #532](https://github.com/ploeffler/GhostWriter/issues/532). It works with existing clips and an available video editor. Load its SKILL.md explicitly as an agent skill or workflow instruction; it is not installed into books automatically.
 
-The general skills are maintained here. GhostWriter distributes copies of the five general skills pinned to a reviewed source commit. The main repository records the commit and SHA-256 digests in `ghostwriter-skills.yml`; `scripts/sync_skills.py` imports a deliberately selected version from a local clone. Normal GhostWriter updates distribute these copies without runtime access to this repository. Changes here alone do not update existing books.
+The general skills are maintained here. GhostWriter distributes copies of the six general skills pinned to a reviewed source commit. The main repository records the commit and SHA-256 digests in `ghostwriter-skills.yml`; `scripts/sync_skills.py` imports a deliberately selected version from a local clone. Normal GhostWriter updates distribute these copies without runtime access to this repository. Changes here alone do not update existing books.
 
 Read project rules, personal skills and executable tools from the selected book or program repository. Program documentation links point to the GhostWriter main repository. Personal skills remain in their book repositories.
 
