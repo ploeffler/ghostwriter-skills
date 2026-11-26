@@ -12,6 +12,7 @@ Optional workflows for [GhostWriter](https://github.com/ploeffler/GhostWriter).
 | [Material](skills/ghostwriter-material/SKILL.md) | Add photos, documents and returns to the book, prepare and mark them |
 | [Anecdotes](skills/ghostwriter-anekdoten/SKILL.md) | Capture personal experiences and build them into sections anonymised |
 | [Character image](skills/ghostwriter-figurenbild/SKILL.md) | Design character images: image style, prompt from the profile, variants stored with their prompt |
+| [Short and clear](skills/ghostwriter-kurz-und-klar/SKILL.md) | Chat answer style: result first, few points, one question as a choice (setting, planned for GhostWriter 1.6) |
 
 The book teaser is the pilot for [GhostWriter #532](https://github.com/ploeffler/GhostWriter/issues/532). It works with existing clips and an available video editor. Load its SKILL.md explicitly as an agent skill or workflow instruction; it is not installed into books automatically.
 
